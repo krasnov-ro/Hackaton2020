@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackaton2020", "Hackaton2020\Hackaton2020.csproj", "{DBE6A4EB-C1C0-45B4-812F-5D0F08AEACAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBE6A4EB-C1C0-45B4-812F-5D0F08AEACAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE6A4EB-C1C0-45B4-812F-5D0F08AEACAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE6A4EB-C1C0-45B4-812F-5D0F08AEACAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE6A4EB-C1C0-45B4-812F-5D0F08AEACAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D377EA1-0833-4552-A17C-F425AF9FA146}
+	EndGlobalSection
+EndGlobal
